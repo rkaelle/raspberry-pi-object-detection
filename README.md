@@ -1,4 +1,3 @@
-# Part 2 - How to Run TensorFlow Lite Object Detection Models on the Raspberry Pi (with Optional Coral USB Accelerator)
 
 <p align="center">
    <img src="doc/TFLite-vs-EdgeTPU.gif">
